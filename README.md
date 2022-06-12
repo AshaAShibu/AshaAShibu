@@ -12,7 +12,7 @@
 &nbsp; 
 &nbsp; 
 
-- Hi, I'm a PhD candidate in Energy Science and Engineering 
+- Hi, I'm a PhD. candidate in Energy Science and Engineering 
 - I’m currently learning the representation of Hydropower in different energy system models
 - I'm interested in quantitative and qualitative analysisof energy data for insights, and developing models for asset forecasting
 
